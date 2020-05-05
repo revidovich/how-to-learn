@@ -1,3 +1,12 @@
+@keyframes povorot {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .rotation {
   animation: povorot 20s linear infinite;
 }
