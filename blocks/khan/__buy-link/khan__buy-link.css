@@ -1,0 +1,7 @@
+.khan__buy-link {
+  margin: 0;
+  height: min-content;/*нужно в брифе на 11 стр поправить п.9 для ссылки*/
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
