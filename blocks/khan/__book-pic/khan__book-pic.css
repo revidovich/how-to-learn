@@ -2,6 +2,6 @@
   margin: 0 48px 0 0;
   height: 608px;
   width: 620px;
-  background-image: url(../../../images/khan-book.jpg);
-  background-size: cover;
+  object-fit: cover;
+  object-position: top;
 }

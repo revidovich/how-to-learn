@@ -1,8 +1,7 @@
-.logo_place_header{ 
-    background-image: url(/Users/влад/dev/how-to-learn/images/logo_place_header.svg);
-    height: 32px;
-    position: absolute;
-    top: 30px;
-    left: 64px;
-  }
-  
+.logo_place_header {
+  background-image: url(../../../images/logo_place_footer.svg);
+  height: 32px;
+  position: absolute;
+  top: 30px;
+  left: 64px;
+}
