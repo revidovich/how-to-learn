@@ -5,12 +5,12 @@
 @import url(./__link/header__link.css);
 
 .header {
-    height: 100vh;
-    display: flex;
-    background-color: #F2F2F2;
-    min-height: 600px;
-    max-height: 756px;
-    align-items: center;
-    position: relative;
-    overflow: hidden;
-  }
+  height: 100vh;
+  display: flex;
+  background-color: #F2F2F2;
+  min-height: 600px;
+  max-height: 756px;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}

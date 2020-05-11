@@ -23,10 +23,12 @@
   max-width: 1600px;
   margin: 0 auto;
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1px;/*дописала эту строку для em, потому что не знаю как задать корень для rem в HTML. Верно??*/
 }
-
-/** {
+/*
+* {
   outline-width: 1px;
   outline-style: solid;
   outline-color: red;
-}*/
+}
+*/
