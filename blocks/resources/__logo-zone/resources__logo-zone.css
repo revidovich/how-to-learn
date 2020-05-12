@@ -1,4 +1,4 @@
 .resources__logo-zone {
-  max-width: 1100px; /*здесь сделала мах- */
+  min-width: 1100px; /*здесь сделала min-, потому что съезжает полка*/
   margin: 80px auto 217px;
 }
