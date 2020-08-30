@@ -2,8 +2,9 @@
 @import url('./__span-accent/two-columns__span-accent.css');
 @import url('./__paragraph/two-columns__paragraph.css');
 @import url('./__main-text/two-columns__main-text.css');
+
 .two-columns{
-  margin: 100px 0 0;
+  margin: 0;
   width: 80%;
   display: -webkit-box;
   display: -ms-flexbox; /*crossbr.*/
